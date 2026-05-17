@@ -25,5 +25,5 @@ def buscar_usuario_seguro(user_id):
 
 if __name__ == "__main__":
     print(saudacao("Aluno FATEC"))
-    print(f'Média: {calcular_media([8.5, 9.0, 7.5])}')
-
+    print(f"Média: {calcular_media([8.5, 9.0, 7.5])}")
+    
